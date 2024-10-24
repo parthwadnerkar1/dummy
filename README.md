@@ -9,3 +9,4 @@ This project includes a text corpus analysis tool. It counts the occurrences of 
 - `dummy/__init__.py`: Contains the Python modules for processing the text.
 - `dummy/prompt.py`: Handles user interaction and output.
 - `dummy/util.py`: Contains utility functions for counting words in the corpus.
+
